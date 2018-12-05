@@ -8,8 +8,8 @@ s
 s
 s
 22222222222
-<<<<<<< HEAD
+
 aaa
-=======
+
 sss
->>>>>>> dda0b3348fa38c05dccbcf71a0b4dc30c9d4e100
+
